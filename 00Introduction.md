@@ -59,3 +59,19 @@ One of the principles of OOP is class. A class is like a blueprint for creating 
 
 Enough of those OOPS concepts, Let's start with out first Code!
 fot that You will need to set up Java.
+
+## Table of Contents
+- [Introduction to Java](./00Introduction.md)
+- [Setting up Java](./01SettingUpJava.md)
+- [Data Types and Variables](./02DataTypes.md)
+- [Literals](./03Literals.md)
+- [Input and Output](./04Inputs.md)
+- [Operators](./05Operands.md)
+- [Strings](./06Strings.md)
+- [Conditionals](./07IfElse.md)
+- [Switch Case](./08SwitchCase.md)
+- [Loops](./09Loops.md)
+- [Arrays](./10Arrays.md)
+- [Methods](./11Methods.md)
+- [VarArgs](./12VarArgs.md)
+- [Classes](./13Classes.md)
